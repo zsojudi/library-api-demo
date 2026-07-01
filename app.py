@@ -60,8 +60,9 @@ def delete_book(book_id):
     return "The book successfully deleted"
 
 # ---------------- Run the app -----------------------#
-if __name__ == '__main__':
+'''if __name__ == '__main__':
     app.run(debug = True)
+'''
 
 
 
