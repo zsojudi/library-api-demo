@@ -1,6 +1,6 @@
 # 📚 Library Manager – Full-Stack Application
 
-A full-stack book management application built with **Flask** (backend) and **React** (frontend). Users can add, view, mark as read, and delete books.
+A full-stack web application for managing a personal book collection. Built with **Flask** (Python) on the backend and **React** (JavaScript) on the frontend, this app provides a clean, intuitive interface for users to organize their reading list.
 
 ## ✨ Features
 
